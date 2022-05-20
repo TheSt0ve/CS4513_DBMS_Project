@@ -1,5 +1,5 @@
 # CS4513_DBMS_Project
-Class project for CS/DSA 4513 (Database Management Systems) at OU.
+Created in Fall 2022, this was a class project for CS/DSA 4513 (Database Management Systems) at OU.
 
 If you plan to take inspiration from this project, please keep in mind that nearly schools have ways of detecting academic misconduct. 
 
